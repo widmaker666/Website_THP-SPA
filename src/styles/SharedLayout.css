@@ -1,0 +1,15 @@
+#navbar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 13vh;
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
